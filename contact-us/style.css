@@ -1,0 +1,25 @@
+body{
+  display: flex;
+  flex-direction: ;
+}
+.contact-us{
+  background-color: rgb(142, 92, 92);
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+}
+.accounts{
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+}
+.links{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+img{
+  height: 50px;
+}
